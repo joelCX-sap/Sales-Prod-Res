@@ -18,4 +18,9 @@ streamlit
 
 sap-ai-sdk-gen[all]
 
+# FastAPI dependencies
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
 
